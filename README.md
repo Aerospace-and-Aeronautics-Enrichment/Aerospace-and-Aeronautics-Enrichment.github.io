@@ -1,7 +1,8 @@
 # Aerospace-and-Aeronautics-Enrichment.github.io
 prerequisites:
-  -github desktop
-  -git
+  - github desktop
+  - git
+
 stack:
-  -language: python
-  -framework: flask
+  - language: python
+  - framework: flask

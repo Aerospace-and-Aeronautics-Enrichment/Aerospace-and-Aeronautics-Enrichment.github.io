@@ -6,3 +6,5 @@ prerequisites:
 stack:
   - language: python
   - framework: flask
+    - Flask FlatPages
+    - Frozen Flask
